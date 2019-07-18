@@ -22,7 +22,7 @@ The elements are:
      - over a period of time (e.g. '1810-1845'; '2/2/2011 - 2/3/2011'; '16:10 23/8/1998 - 16:15 23/8/1998')
      - at a specific moment (e.g. '316 AD'; '6/8/2001', etc.)
 - groups (such as political parties or organisations; e.g. 'the crusaders', 'the green party' etc.)
-    * they can be nested in one another (e.g. 'Schutzstaffel' into 'NSDAP')
+    * they can be nested in one another (e.g. 'Schutzstaffel' into 'NSDAP', or 'T-rex' into 'Dinosaurs')
 - persons
     * they can be tagged in events
     * they can not be nested in one another
