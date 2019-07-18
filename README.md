@@ -1,2 +1,2 @@
 # time_library
-A new way to view any history
+A new way to view history, any history
