@@ -1,0 +1,28 @@
+{
+  "name": "time_library",
+  "version": "1.0.0",
+  "description": "A new way to view any history",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build && node dist/index.js",
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matazombie/time_library.git"
+  },
+  "author": "matazombie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matazombie/time_library/issues"
+  },
+  "homepage": "https://github.com/matazombie/time_library#readme",
+  "devDependencies": {
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "@types/node": "^12.6.8"
+  }
+}
