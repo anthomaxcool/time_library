@@ -59,13 +59,13 @@ Other ideas:
 - It would be nice if the user could visualize relations between people in interactive family trees
 
 ## platforms used:
-Backend 
-Langauge: Node
-Database: firebase
+Backend
+- Langauge: Node
+- Database: firebase
 
 Frontend
-Android: Java
-iOS: Swift
+- Android: Java
+- iOS: Swift
 
 ## Running the code
 To run the code in `index.ts`, please run the command `npm start`. This will automatically run any code in the file and compile all of the typescript to the `dist/` directory.
