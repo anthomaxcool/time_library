@@ -58,5 +58,14 @@ Other ideas:
 - Along the course of history, and around different areas, different calendar types may have been or still be used, it would be nice if the user could switch to different calendar types (e.g. the islamic calendar)
 - It would be nice if the user could visualize relations between people in interactive family trees
 
+## platforms used:
+Backend 
+Langauge: Node
+Database: firebase
+
+Frontend
+Android: Java
+iOS: Swift
+
 ## Running the code
 To run the code in `index.ts`, please run the command `npm start`. This will automatically run any code in the file and compile all of the typescript to the `dist/` directory.
