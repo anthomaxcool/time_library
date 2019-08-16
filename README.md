@@ -68,4 +68,4 @@ Frontend
 - iOS: Swift
 
 ## Running the code
-To run the code in `index.ts`, please run the command `npm start`. This will automatically run any code in the file and compile all of the typescript to the `dist/` directory.
+npm install && npm start
